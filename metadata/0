@@ -1,8 +1,8 @@
 {
   "name": "RTFKT One",
   "description": "This is a sneaker called RTFKT One.",
-  "image": "https://raw.githubusercontent.com/satoshi-homura/nft-examples/main/0.png",
-  "animation_url": "https://raw.githubusercontent.com/satoshi-homura/nft-examples/main/0.glb",
+  "image": "https://raw.githubusercontent.com/satoshi-homura/nft/main/0.png",
+  "animation_url": "https://raw.githubusercontent.com/satoshi-homura/nft/main/0.glb",
   "background_color": "#000000",
   "attributes": [
     {
